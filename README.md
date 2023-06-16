@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Android Development and DSA**
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+- 👯 I’m looking to collaborate on **Android and ReactJs Projects**
 
 - 💬 Ask me about **DSA and Competitive Coding**
 
