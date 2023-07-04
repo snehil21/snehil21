@@ -13,7 +13,7 @@
 - 💬 Ask me about **DSA and Competitive Coding**
 
 - 📫 How to reach me **Snehil.kumar09@gmail.com**
-- 💻 See my portfolio at **https://64a097bdc002916dc18b57de--lucent-douhua-160566.netlify.app/**
+- 💻 See my portfolio at **https://theworkofsnehil.netlify.app/**
 
 - ⚡ Fun fact **Music is like a performance enhancing drug to me!**
 
