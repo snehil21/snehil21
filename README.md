@@ -20,9 +20,9 @@
 ## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/snehil kuamr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snehil kuamr" height="40" width="50" /></a>
-<a href="https://www.codechef.com/users/snehil21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="snehil21" height="40" width="50" /></a>
-<a href="https://codeforces.com/profile/snehilthakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="snehilthakur" height="40" width="50" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/snehilthakur/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/snehilthakur/practice" height="40" width="50" /></a>
+<a href="https://www.codechef.com/users/snehil21" target="blank"><img align="center" src="https://github.com/snehil21/snehil21/assets/79865664/5d8a5c92-a0ba-4845-a83e-bb3d641ff467"alt="snehil21" height="40" width="50" margin-left=20px margin-right=20px /></a>
+<a href="https://codeforces.com/profile/snehilthakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="snehilthakur" height="40" width="50" margin-left=20px margin-right=20px/></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/snehilthakur/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/snehilthakur/practice" height="40" width="50" margin-left=20 margin-right=20px/></a>
 </p>
 
 ## Languages and Tools:
