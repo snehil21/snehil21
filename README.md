@@ -15,7 +15,6 @@
 - 📫 How to reach me **Snehil.kumar09@gmail.com**
 - 💻 See my portfolio at **https://theworkofsnehil.netlify.app/**
 
-- ⚡ Fun fact **Music is like a performance enhancing drug to me!**
 
 ## Connect with me:
 <p align="left">
