@@ -1,34 +1,28 @@
-<h1 align="left">Hi 👋, I'm Snehil</h1>
-<h3 align="left">A passionate Front-end Developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=snehil21&label=Profile%20views&color=0e75b6&style=flat" alt="snehil21" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snehil21" alt="snehil21" /></a> </p> -->
-
-- 🌱 I’m currently learning **Android Development and DSA**
-
-- 👯 I’m looking to collaborate on **Android and ReactJs Projects**
-
-- 💬 Ask me about **DSA and Competitive Coding**
-
-- 📫 How to reach me **Snehil.kumar09@gmail.com**
-- 💻 See my portfolio at **https://theworkofsnehil.netlify.app/**
+# 💫 About Me:
+I'm a final year Computer Science and Engineering student at NMIT Bangalore with a strong passion for problem-solving and a background in software development. Here's a glimpse of my journey:<br><br>👨‍💻 Current Role as a Frontend Developer at Enitiate: I'm also currently working as a frontend developer at Enitiate, where I'm engaged in Collaborating with cross-functional teams to implement project requirements.<br><br>🎯 Oracle Internship: During my Oracle internship, I contributed to a collaborative project. In a four-member team, I designed and optimized a middleware framework for scheduled queries and turbulence detection. My Java expertise enabled essential component development, and I seamlessly integrated Oracle Database capabilities. By using JDBC and multithreading techniques, we achieved impressive performance enhancements and reduced processing times.<br><br>💡 Competitive Programming Enthusiast: Besides my professional experiences, I have a strong aptitude for competitive programming, evident from my 4-star coder status on CodeChef and my extensive problem-solving accomplishments on GeeksforGeeks(1200+ Problems) and LeetCode(300+ Problems).<br><br>⚙️ Technical Proficiencies: My technical skills span a range of programming languages, including C/C++, Java, JavaScript(TypeScript), and SQL. I've also gained hands-on experience with web technologies like React.js, Next.js, database management with JDBC, and web design with HTML and CSS. My toolbox includes Git, GitHub, MySQL, and MongoDB.<br><br>I'm passionate about technology, coding, and innovation, and I'm eager to connect with like-minded professionals, collaborate on exciting projects, or explore new opportunities in the tech world.<br><br>Let's connect and discuss coding, tech trends, or potential collaborations.Feel free to reach out, and let's explore the possibilities!
 
 
-## Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/snehil kuamr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snehil kuamr" height="40" width="50" /></a>
-<a href="https://www.codechef.com/users/snehil21" target="blank"><img align="center" src="https://github.com/snehil21/snehil21/assets/79865664/5d8a5c92-a0ba-4845-a83e-bb3d641ff467"alt="snehil21" height="40" width="50" margin-left=20px margin-right=20px /></a>
-<a href="https://codeforces.com/profile/snehilthakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="snehilthakur" height="40" width="50" margin-left=20px margin-right=20px/></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/snehilthakur/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/snehilthakur/practice" height="40" width="50" margin-left=20 margin-right=20px/></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehil-thakur-b894551b6/) 
 
-## Languages and Tools:
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> </p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=snehil21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=snehil21&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=snehil21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Github Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehil21&show_icons=true&locale=en&layout=compact" alt="snehil21" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehil21&show_icons=true&locale=en" alt="snehil21" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehil21&" alt="snehil21" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=snehil21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=snehil21&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=snehil21&icon=0&color=0)](https://visitcount.itsvg.in)
