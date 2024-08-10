@@ -1,17 +1,17 @@
 # 💫 About Me:
-👨‍💻 Final Year Computer Science & Engineering Student | NMIT '24🎓
+Software Engineer at Cimpress 👨‍💻 | CSE '24 🎓
 
-Experienced in driving impactful solutions through technology and Problem Solving. My journey encompasses a diverse range of roles and experiences, each contributing to my growth as a problem solver and software enthusiast.
+Experienced in driving impactful solutions through technology and problem-solving. I've held diverse roles, each contributing to my growth as a software enthusiast.
 
-🎯 Oracle Internship: Collaborated on a dynamic project focused on middleware framework optimization and turbulence detection. Leveraged Java expertise to develop essential components and seamlessly integrated Oracle Database capabilities, resulting in significant performance enhancements and reduced processing times.
+🎯 Oracle (Project Intern): Optimized a middleware framework, leveraging Java to integrate Oracle Database, enhancing performance and reducing processing times.
 
-👨‍💻 Frontend Developer Intern: Transitioned from internship to a role at ENITIATE where I thrive as a Frontend Developer, contributing to cross-functional teams to implement project requirements effectively. My focus is on enhancing development processes through collaboration.
+👨‍💻 ENITIATE (Frontend Intern):Worked with cross-functional teams to implement project requirements and improve development processes collaboratively.
 
-💡 Competitive Programming Enthusiast: Dedicated to honing problem-solving skills, I've achieved a Knight badge on LeetCode with a maximum rating of 1975. Additionally, I hold a 4-star coder status on platforms like CodeChef. My extensive problem-solving experience is further evidenced by accomplishments on GeeksforGeeks(1200+ Problems) and LeetCode(450+ Problems).
+💡 Competitive Programming Enthusiast: Achieved a Knight badge on LeetCode with a max rating of 1975 and a 4-star coder status on CodeChef. Solved over 1200 problems on GeeksforGeeks and 500+ on LeetCode.
 
-⚙️ Technical Proficiencies: Proficient in multiple programming languages including C/C++, Java, JavaScript(TypeScript), and SQL. Hands-on experience with React.js, Next.js, JDBC for database management, and web design using HTML/CSS. Skilled in tools like Git, GitHub, MySQL, and MongoDB.
+⚙️ Technical Proficiencies: Skilled in C/C++, Java, JavaScript (TypeScript), SQL, React.js, Next.js, JDBC, HTML/CSS, Git, GitHub, MySQL, and MongoDB.
 
-I'm enthusiastic about technology, coding, and innovation, and I'm keen to connect with fellow professionals for discussions on coding, tech trends, or potential collaborations. Let's explore the possibilities together!
+Enthusiastic about technology and innovation, I'm keen to connect with fellow professionals for discussions on coding, tech trends, or collaborations. Let's explore the possibilities together!
 
 
 ## 🌐 Socials:
