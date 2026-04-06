@@ -24,10 +24,6 @@ I'm a **Software Engineer at Cimpress** with 2+ years of experience building sca
 - ⚡ Serverless migrations, high-throughput systems (1M+ events/day)
 - 🛠️ End-to-end feature ownership – from idea to production
 
-Currently working on:
-- Credit-based monetization systems (10K+ orders/day)
-- Carrier integrations & data parsing pipelines (50K+ records/day)
-
 ---
 
 ## 🏆 Competitive Programming / DSA
