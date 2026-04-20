@@ -30,9 +30,9 @@ I'm a **Software Engineer at Cimpress** with 2+ years of experience building sca
 
 | Platform | Handle | Rating | Badge |
 |----------|--------|--------|-------|
-| [LeetCode](https://leetcode.com/u/snehilthakur21/) | snehilthakur21 | 1975 (max) | 🏅 Knight (500+ problems) |
-| [CodeChef](https://www.codechef.com/users/snehil21) | snehil21 | 1630 (max) | ⭐⭐⭐ 3-star |
-| [GeeksforGeeks](https://www.geeksforgeeks.org/profile/snehilthakur) | snehilthakur | – | Top 100 (1200+ problems) |
+| LeetCode | [snehilthakur21](https://leetcode.com/u/snehilthakur21/) | 1975 (max) | 🏅 Knight (500+ problems) |
+| CodeChef | [snehil21](https://www.codechef.com/users/snehil21) | 1630 (max) | ⭐⭐⭐ 3-star |
+| GeeksforGeeks | [snehilthakur](https://www.geeksforgeeks.org/profile/snehilthakur) | – | Top 100 (1200+ problems) |
 
 ---
 
