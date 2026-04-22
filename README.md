@@ -14,7 +14,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
+</p>
 
 ## 👨‍💻 About Me
 
@@ -24,7 +26,9 @@ I'm a **Software Engineer at Cimpress** with 2+ years of experience building sca
 - ⚡ Serverless migrations, high-throughput systems (1M+ events/day)
 - 🛠️ End-to-end feature ownership – from idea to production
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
+</p>
 
 ## 🏆 Competitive Programming / DSA
 
@@ -34,7 +38,9 @@ I'm a **Software Engineer at Cimpress** with 2+ years of experience building sca
 | CodeChef | [snehil21](https://www.codechef.com/users/snehil21) | 1630 (max) | ⭐⭐⭐ 3-star |
 | GeeksforGeeks | [snehilthakur](https://www.geeksforgeeks.org/profile/snehilthakur) | – | Top 100 (1200+ problems) |
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
+</p>
 
 ## 💻 Tech Stack
 
@@ -60,7 +66,9 @@ I'm a **Software Engineer at Cimpress** with 2+ years of experience building sca
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%>
+</p>
 
 ## 📊 GitHub Stats
 
@@ -73,7 +81,9 @@ I'm a **Software Engineer at Cimpress** with 2+ years of experience building sca
   <img src="https://github-readme-stats-multiuser.vercel.app/api?usernames=snehil21&theme=radical&hide_border=true&layout=compact" width="45%" />
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
+</p>
 
 ## 📫 Let's Connect
 
