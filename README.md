@@ -22,7 +22,7 @@
 
 I'm a **Software Engineer at Cimpress** with 2+ years of experience building scalable backend systems and event-driven architectures. I specialize in:
 
-- 🚀 **Node.js • TypeScript • AWS (Lambda, SQS, SNS) • NestJS • Microservices**
+- 🚀 **Java • Spring Boot • Node.js • TypeScript • AWS (Lambda, SQS, SNS) • NestJS • Microservices**
 - ⚡ Serverless migrations, high-throughput systems (1M+ events/day)
 - 🛠️ End-to-end feature ownership – from idea to production
 
@@ -52,6 +52,7 @@ I'm a **Software Engineer at Cimpress** with 2+ years of experience building sca
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 
 **Backend & Frameworks:**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
@@ -64,6 +65,7 @@ I'm a **Software Engineer at Cimpress** with 2+ years of experience building sca
 
 **Databases:**
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
 <p align="center">
