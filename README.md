@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Snehil Kumar</h1>
-<h3 align="center">Software Engineer @Cimpress | Backend • Distributed Systems • AWS Serverless</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=FullStack+Developer;Java+•+Spring+Boot+•+Node.js+•+AWS;Building+systems+that+scale+to+millions;LeetCode+Knight+•+1500%2B+problems+solved" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=snehil21&label=Profile%20Views&color=0e75b6&style=flat" alt="snehil21" />
