@@ -11,7 +11,7 @@
   <a href="https://leetcode.com/u/snehilthakur21/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="https://www.codechef.com/users/snehil_21">
+  <a href="https://www.codechef.com/users/snehil21">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
 </p>
