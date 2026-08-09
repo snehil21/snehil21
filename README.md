@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/snehilkumarr/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://snehilcodes.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://leetcode.com/u/snehilthakur21/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
@@ -64,6 +67,7 @@ Migrated a 1M+ events/day shipment processing service to AWS serverless (zero-do
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 **Backend & Frameworks:**
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -76,6 +80,7 @@ Migrated a 1M+ events/day shipment processing service to AWS serverless (zero-do
 
 **Cloud & DevOps:**
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 
@@ -99,13 +104,13 @@ Migrated a 1M+ events/day shipment processing service to AWS serverless (zero-do
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehil21&theme=radical&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-multiuser.vercel.app/api?usernames=snehil21&theme=radical&hide_border=true&layout=compact" width="45%" />
-</p>
+</p> -->
 
-<p align="center">
+ <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+</p> 
 
 ## 📫 Let's Connect
 
