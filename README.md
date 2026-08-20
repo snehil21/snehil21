@@ -5,18 +5,18 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=snehil21&label=Profile%20Views&color=0e75b6&style=flat" alt="snehil21" />
+    <a href="https://snehilcodes.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/snehilkumarr/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://snehilcodes.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://leetcode.com/u/snehilthakur21/">
+  <!-- <a href="https://leetcode.com/u/snehilthakur21/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://www.codechef.com/users/snehil21">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
@@ -115,7 +115,6 @@ Migrated a 1M+ events/day shipment processing service to AWS serverless (zero-do
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/snehilkumarr/)
-- 🧠 [LeetCode](https://leetcode.com/u/snehilthakur21/)
 - 📧 snehil.kumar09@gmail.com
 
 > "Always open to collaboration, problem-solving, and meaningful backend innovation."
