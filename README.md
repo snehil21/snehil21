@@ -48,18 +48,6 @@ Migrated a 1M+ events/day shipment processing service to AWS serverless (zero-do
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-## 🏆 Competitive Programming / DSA
-
-| Platform | Handle | Rating | Badge |
-|----------|--------|--------|-------|
-| LeetCode | [snehilthakur21](https://leetcode.com/u/snehilthakur21/) | 1975 (max) | 🏅 Knight (500+ problems) |
-| CodeChef | [snehil21](https://www.codechef.com/users/snehil21) | 1630 (max) | ⭐⭐⭐ 3-star |
-| GeeksforGeeks | [snehilthakur](https://www.geeksforgeeks.org/profile/snehilthakur) | – | Top 100 (1200+ problems) |
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
-
 ## 💻 Tech Stack
 
 **Languages:**
@@ -92,6 +80,18 @@ Migrated a 1M+ events/day shipment processing service to AWS serverless (zero-do
 **Databases:**
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</p>
+
+## 🏆 Competitive Programming / DSA
+
+| Platform | Handle | Rating | Badge |
+|----------|--------|--------|-------|
+| LeetCode | [snehilthakur21](https://leetcode.com/u/snehilthakur21/) | 1975 (max) | 🏅 Knight (500+ problems) |
+| CodeChef | [snehil21](https://www.codechef.com/users/snehil21) | 1630 (max) | ⭐⭐⭐ 3-star |
+| GeeksforGeeks | [snehilthakur](https://www.geeksforgeeks.org/profile/snehilthakur) | – | Top 100 (1200+ problems) |
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
