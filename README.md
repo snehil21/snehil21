@@ -1,26 +1,22 @@
 <h1 align="center">Hi 👋, I'm Snehil</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=A+Backend+Engineer;Java+•+Spring+Boot+•+Node.js+•+AWS;Building+systems+that+scale+to+millions;LeetCode+Knight+•+500%2B+problems+solved" alt="Typing SVG" />
+  
+</p>
+<p align="center">
+  🌍 <strong>Open to remote Backend, Platform, Infrastructure, and AI Backend engineering opportunities.</strong>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=snehil21&label=Profile%20Views&color=0e75b6&style=flat" alt="snehil21" />
-    <a href="https://snehilcodes.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
+  &nbsp;&nbsp;
+  <a href="https://snehilcodes.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/snehilkumarr/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- <a href="https://leetcode.com/u/snehilthakur21/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.codechef.com/users/snehil21">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a> -->
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
 ## 👨‍💻 About Me
