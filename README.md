@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Snehil</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=A+Backend+Engineer;Java+•+Spring+Boot+•+Node.js+•+AWS;Building+systems+that+scale+to+millions;LeetCode+Knight+•+500%2B+problems+solved" alt="Typing SVG" />
-  
-</p>
-<p align="center">
-  🌍 <strong>Open to remote Backend, Platform, Infrastructure, and AI Backend engineering opportunities.</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Engineer+%7C+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Node.js;AWS+%E2%80%A2+Distributed+Systems+%E2%80%A2+Event-Driven+Architecture;Building+Applied-AI+Systems+with+Production+Guardrails;LeetCode+Knight+%E2%80%A2+1975+Peak+Rating" alt="Backend engineer introduction" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=snehil21&label=Profile%20Views&color=0e75b6&style=flat" alt="snehil21" />
+  🌍 <strong>Open to remote Backend, Platform, Distributed Systems, and AI-Backend opportunities.</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=snehil21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   &nbsp;&nbsp;
   <a href="https://snehilcodes.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
@@ -21,96 +22,121 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Development Engineer I at Amazon (Payment Services)**, joined via BCT Consulting, with prior experience at **Cimpress** building scalable backend systems and event-driven architectures. I specialize in:
+I'm a backend-focused **Software Development Engineer I working with Amazon Payment Services through BCT Consulting**. I have 2+ years of experience building and operating high-throughput systems with **Java, Spring Boot, Node.js, TypeScript, and AWS**.
 
-- 🚀 **Java • Spring Boot • Node.js • TypeScript • AWS (Lambda, SQS, SNS, CodePipeline, CodeDeploy) • NestJS • Microservices**
-- ⚡ Serverless migrations, high-throughput systems (1M+ events/day)
-- 🛠️ End-to-end feature ownership – from idea to production
-- 🤖 Currently exploring **Agentic AI (LangChain, LangGraph)** to build backend systems that integrate AI agents
+- 🔐 Strengthening security controls and AWS CDK deployment pipelines at Amazon Payment Services
+- ⚡ Migrated a shipment-processing service handling **1M+ events/day** to AWS serverless, reducing cost by **35%** and latency by **50%**
+- 💳 Built payment and credit-allocation workflows for a GenAI Logomaker, load-tested to **10K+ orders/day**
+- 🤖 Building applied-AI systems with deterministic safeguards and human approval for risky actions
+- 🏅 LeetCode Knight with a **1975 peak rating** and **1,500+ DSA problems solved** across platforms
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section divider" />
 </p>
 
 ## 💼 Experience
 
-**Amazon (via BCT Consulting)** — SDE I · *May 2026 – Present*
-Payfort MENA merchant integration, backoffice configuration, and deployment tooling (AWS CodePipeline/CodeDeploy, ELK-based observability).
+### Amazon Payment Services — Software Development Engineer I
+*Via BCT Consulting · May 2026 – Present*
 
-**Cimpress India** — Software Engineer · *Aug 2024 – Present*
-Migrated a 1M+ events/day shipment processing service to AWS serverless (zero-downtime, 35% cost reduction, 50% lower latency), built a credit-based monetization system load-tested to 10K+ orders/day, and data pipelines processing 50K+ records/day.
+- Coordinated remediation for three high-severity findings spanning S3 transport security, XML parser hardening, and endpoint authentication
+- Authored AWS CDK security remediations across three services and secured approved delivery timelines
+- Shipped automated security scanning and manual approval gates across two AWS CDK deployment pipelines
+
+### Cimpress India — Software Development Engineer I
+*Aug 2024 – Apr 2026*
+
+- Migrated a 1M+ events/day service from ECS/Fargate to Lambda, SQS, and SNS with zero downtime, 35% lower cost, 50% lower latency, and support for 2x peak traffic
+- Launched a credit-purchase and allocation system integrated with checkout, payments, AWS SNS, and webhooks
+- Developed multi-format pipelines processing 50K+ records/day with 25% fewer parsing errors
+- Integrated Canada Post and France Express with manufacturing systems, supporting 10K+ shipments/month
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section divider" />
 </p>
 
 ## 💻 Tech Stack
 
-**Languages:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+### Languages
 
-**Backend & Frameworks:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+### Backend & Architecture
+
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat&logo=swagger&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-512BD4?style=flat&logo=icloud&logoColor=white)
+![Event-Driven](https://img.shields.io/badge/Event--Driven%20Architecture-FF6F00?style=flat&logo=apachekafka&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
-**AI / Agentic Engineering** *(currently building):*
-![LangChain](https://img.shields.io/badge/🦜%20LangChain-1C3C3C?style=flat)
-![LangGraph](https://img.shields.io/badge/🕸️%20LangGraph-1C3C3C?style=flat)
+### AWS, Infrastructure & Delivery
 
-**Cloud & DevOps:**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=flat&logo=amazonsqs&logoColor=white)
+![Amazon SNS](https://img.shields.io/badge/Amazon%20SNS-DD344C?style=flat&logo=amazonaws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
+![CodePipeline](https://img.shields.io/badge/CodePipeline-527FFF?style=flat&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=flat&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat&logo=githubactions&logoColor=white)
 
-**Monitoring/Observability:**
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Elastic](https://img.shields.io/badge/ELK%20Stack-005571?style=flat&logo=elastic&logoColor=white)
+### Applied AI
 
-**Databases:**
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-7B61FF?style=flat&logo=semanticweb&logoColor=white)
+![LLM](https://img.shields.io/badge/Large%20Language%20Models-412991?style=flat&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-5A67D8?style=flat&logo=protondrive&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+### Data & Observability
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Amazon CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
+![Elastic Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=flat&logo=elastic&logoColor=white)
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section divider" />
 </p>
 
-## 🏆 Competitive Programming / DSA
+## 🏆 Competitive Programming
 
-| Platform | Handle | Rating | Badge |
-|----------|--------|--------|-------|
-| LeetCode | [snehilthakur21](https://leetcode.com/u/snehilthakur21/) | 1975 (max) | 🏅 Knight (500+ problems) |
-| CodeChef | [snehil21](https://www.codechef.com/users/snehil21) | 1630 (max) | ⭐⭐⭐ 3-star |
-| GeeksforGeeks | [snehilthakur](https://www.geeksforgeeks.org/profile/snehilthakur) | – | Top 100 (1200+ problems) |
-
+| Platform | Profile | Achievement |
+|---|---|---|
+| LeetCode | [snehilthakur21](https://leetcode.com/u/snehilthakur21/) | Knight · 1975 peak rating · 500+ problems |
+| GeeksforGeeks | [snehilthakur](https://www.geeksforgeeks.org/profile/snehilthakur) | Global Top 100 · 1,200+ problems |
+| CodeChef | [snehil21](https://www.codechef.com/users/snehil21) | 3-star · 1630 peak rating |
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section divider" />
 </p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-multiuser.vercel.app/api?usernames=snehil21&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehil21&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-multiuser.vercel.app/api?usernames=snehil21&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Snehil's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehil21&theme=radical&hide_border=true" width="48%" alt="Snehil's GitHub contribution streak" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats-multiuser.vercel.app/api?usernames=snehil21&theme=radical&hide_border=true&layout=compact" width="45%" />
-</p> -->
-
- <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p> 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section divider" />
+</p>
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/snehilkumarr/)
-- 📧 snehil.kumar09@gmail.com
+I'm open to conversations about remote backend, platform, distributed-systems, and AI-backend engineering opportunities.   <a href="mailto:snehil.kumar09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 
-> "Always open to collaboration, problem-solving, and meaningful backend innovation."
