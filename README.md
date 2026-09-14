@@ -151,25 +151,6 @@ I'm a backend-focused **Software Development Engineer I working with Amazon Paym
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/profile/snehilthakur?tab=activity">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="./assets/gfg-stats-dark.svg"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="./assets/gfg-stats-light.svg"
-      />
-      <img
-        src="./assets/gfg-stats-light.svg"
-        height="230"
-        alt="Snehil's GeeksforGeeks statistics: 1289 problems solved, coding score 4387, institute rank 1, longest streak 89 days, and 564 POTDs solved"
-      />
-    </picture>
-  </a>
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section divider" />
