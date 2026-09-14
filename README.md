@@ -111,13 +111,65 @@ I'm a backend-focused **Software Development Engineer I working with Amazon Paym
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section divider" />
 </p>
 
-## 🏆 Competitive Programming
+## 🏆 Competitive Programming / DSA
 
-| Platform | Profile | Achievement |
-|---|---|---|
-| LeetCode | [snehilthakur21](https://leetcode.com/u/snehilthakur21/) | Knight · 1975 peak rating · 500+ problems |
-| GeeksforGeeks | [snehilthakur](https://www.geeksforgeeks.org/profile/snehilthakur) | Global Top 100 · 1,200+ problems |
-| CodeChef | [snehil21](https://www.codechef.com/users/snehil21) | 3-star · 1630 peak rating |
+<p align="center">
+  <a href="https://leetcode.com/u/snehilthakur21/">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://leetcard.jacoblin.cool/snehilthakur21?theme=dark&font=Inter&ext=contest"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://leetcard.jacoblin.cool/snehilthakur21?theme=light&font=Inter&ext=contest"
+      />
+      <img
+        src="https://leetcard.jacoblin.cool/snehilthakur21?theme=light&font=Inter&ext=contest"
+        height="230"
+        alt="Snehil's LeetCode statistics"
+      />
+    </picture>
+  </a>
+
+  <a href="https://www.codechef.com/users/snehil21">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://codechef-stat-card.vercel.app/api/snehil21?theme=dark&ext=contest"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://codechef-stat-card.vercel.app/api/snehil21?theme=light&ext=contest"
+      />
+      <img
+        src="https://codechef-stat-card.vercel.app/api/snehil21?theme=light&ext=contest"
+        height="230"
+        alt="Snehil's CodeChef statistics"
+      />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/snehilthakur?tab=activity">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="./assets/gfg-stats-dark.svg"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="./assets/gfg-stats-light.svg"
+      />
+      <img
+        src="./assets/gfg-stats-light.svg"
+        height="230"
+        alt="Snehil's GeeksforGeeks statistics: 1289 problems solved, coding score 4387, institute rank 1, longest streak 89 days, and 564 POTDs solved"
+      />
+    </picture>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section divider" />
