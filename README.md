@@ -39,10 +39,6 @@ I'm a backend-focused **Software Development Engineer I working with Amazon Paym
 ### Amazon Payment Services — Software Development Engineer I
 *Via BCT Consulting · May 2026 – Present*
 
-- Coordinated remediation for three high-severity findings spanning S3 transport security, XML parser hardening, and endpoint authentication
-- Authored AWS CDK security remediations across three services and secured approved delivery timelines
-- Shipped automated security scanning and manual approval gates across two AWS CDK deployment pipelines
-
 ### Cimpress India — Software Development Engineer I
 *Aug 2024 – Apr 2026*
 
