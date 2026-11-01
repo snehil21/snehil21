@@ -47,19 +47,13 @@ I build backend, distributed, and applied-AI systems with **Java, Spring Boot, N
 
 A locally runnable platform for diagnosing and repairing deliberately unhealthy distributed systems using logs, metrics, traces, queue state, and behavioral grading.
 
-`TypeScript` `Node.js` `Docker Compose` `Terraform` `OpenTelemetry` `Prometheus` `Loki`
-
 ### [DLQ Triage Assistant](https://github.com/snehil21/dlq-triage-assistant)
 
 A local payment-failure triage system that turns dead-letter queue evidence into safe, human-reviewed recovery recommendations.
 
-`Java 21` `Spring Boot` `Python` `Amazon SQS` `Terraform` `Local LLMs`
-
 ### [ResumeCraft](https://github.com/snehil21/ResumeCraft)
 
 A privacy-first, browser-based resume builder for importing, reviewing, editing, and exporting polished resumes without requiring an account.
-
-`React 19` `TypeScript` `Zustand` `PDF.js` `Mammoth`
 
 ## 💼 Experience
 
