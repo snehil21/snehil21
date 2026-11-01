@@ -1,171 +1,177 @@
-<h1 align="center">Hi 👋, I'm Snehil</h1>
+<h1 align="center">Hi, I'm Snehil 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Engineer+%7C+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Node.js;AWS+%E2%80%A2+Distributed+Systems+%E2%80%A2+Event-Driven+Architecture;Building+Applied-AI+Systems+with+Production+Guardrails;LeetCode+Knight+%E2%80%A2+1975+Peak+Rating" alt="Backend engineer introduction" />
+  <strong>Backend engineer building systems that stay boring in production.</strong>
 </p>
 
 <p align="center">
-  🌍 <strong>Open to remote Backend, Platform, Distributed Systems, and AI-Backend opportunities.</strong>
+  Java · Spring Boot · Node.js · AWS · Distributed Systems · Applied AI
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=snehil21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  &nbsp;&nbsp;
+  <em>I like queues that drain, payments that reconcile, uneventful deployments, and AI that asks before doing anything risky.</em>
+</p>
+
+<p align="center">
+  📍 Bengaluru, India &nbsp;·&nbsp; 🌍 Open to backend, platform, distributed-systems, and AI-backend opportunities
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=snehil21&label=Profile%20Views&color=5f736a&style=flat" alt="Profile views" />
+  &nbsp;
   <a href="https://snehilcodes.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-252c29?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/snehilkumarr/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-5f736a?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:snehil.kumar09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-47534e?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ## 👨‍💻 About Me
 
-I'm a backend-focused **Software Development Engineer I working with Amazon Payment Services through BCT Consulting**. I have 2+ years of experience building and operating high-throughput systems with **Java, Spring Boot, Node.js, TypeScript, and AWS**.
+I build backend, distributed, and applied-AI systems with **Java, Spring Boot, Node.js, TypeScript, and AWS**. I care about reliable asynchronous workflows, observable services, safe automation, and software that remains understandable when something fails at 2 a.m.
 
-- 🔐 Strengthening security controls and AWS CDK deployment pipelines at Amazon Payment Services
-- ⚡ Migrated a shipment-processing service handling **1M+ events/day** to AWS serverless, reducing cost by **35%** and latency by **50%**
-- 💳 Built payment and credit-allocation workflows for a GenAI Logomaker, load-tested to **10K+ orders/day**
-- 🤖 Building applied-AI systems with deterministic safeguards and human approval for risky actions
-- 🏅 LeetCode Knight with a **1975 peak rating** and **1,500+ DSA problems solved** across platforms
+- 🧪 Currently building **[OutageGym](https://github.com/snehil21/OutageGym)**, a locally runnable incident-response lab
+- 🤖 Exploring applied-AI workflows with structured outputs, deterministic safeguards, and human review
+- 🏅 LeetCode Knight with a **1975 peak rating** and **1,500+ problems solved** across platforms
+- 📚 Usually learning something about distributed systems, reliability, or the many creative ways a queue can misbehave
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section divider" />
-</p>
+## 🛠️ Things I'm Building
+
+### [OutageGym: Local Incident-Response Lab](https://github.com/snehil21/OutageGym)
+
+A locally runnable platform for diagnosing and repairing deliberately unhealthy distributed systems using logs, metrics, traces, queue state, and behavioral grading.
+
+`TypeScript` `Node.js` `Docker Compose` `Terraform` `OpenTelemetry` `Prometheus` `Loki`
+
+### [DLQ Triage Assistant](https://github.com/snehil21/dlq-triage-assistant)
+
+A local payment-failure triage system that turns dead-letter queue evidence into safe, human-reviewed recovery recommendations.
+
+`Java 21` `Spring Boot` `Python` `Amazon SQS` `Terraform` `Local LLMs`
+
+### [ResumeCraft](https://github.com/snehil21/ResumeCraft)
+
+A privacy-first, browser-based resume builder for importing, reviewing, editing, and exporting polished resumes without requiring an account.
+
+`React 19` `TypeScript` `Zustand` `PDF.js` `Mammoth`
 
 ## 💼 Experience
 
-### Amazon Payment Services — Software Development Engineer I
-*Via BCT Consulting · May 2026 – Present*
+**Software Development Engineer I — Amazon Payment Services**  
+*May 2026 – Present*
 
-### Cimpress India — Software Development Engineer I
+**Software Development Engineer I — Cimpress India**  
 *Aug 2024 – Apr 2026*
 
-- Migrated a 1M+ events/day service from ECS/Fargate to Lambda, SQS, and SNS with zero downtime, 35% lower cost, 50% lower latency, and support for 2x peak traffic
-- Launched a credit-purchase and allocation system integrated with checkout, payments, AWS SNS, and webhooks
-- Developed multi-format pipelines processing 50K+ records/day with 25% fewer parsing errors
-- Integrated Canada Post and France Express with manufacturing systems, supporting 10K+ shipments/month
+## 💻 Tech Stack & Skills
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section divider" />
-</p>
+<p>Technologies and concepts from production work, projects, and focused coursework.</p>
 
-## 💻 Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-### Backend & Architecture
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat&logo=swagger&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-512BD4?style=flat&logo=icloud&logoColor=white)
-![Event-Driven](https://img.shields.io/badge/Event--Driven%20Architecture-FF6F00?style=flat&logo=apachekafka&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-
-### AWS, Infrastructure & Delivery
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
-![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=flat&logo=amazonsqs&logoColor=white)
-![Amazon SNS](https://img.shields.io/badge/Amazon%20SNS-DD344C?style=flat&logo=amazonaws&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
-![AWS CDK](https://img.shields.io/badge/AWS%20CDK-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
-![CodePipeline](https://img.shields.io/badge/CodePipeline-527FFF?style=flat&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=flat&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=flat&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat&logo=githubactions&logoColor=white)
-
-### Applied AI
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-7B61FF?style=flat&logo=semanticweb&logoColor=white)
-![LLM](https://img.shields.io/badge/Large%20Language%20Models-412991?style=flat&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
-![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-5A67D8?style=flat&logo=protondrive&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-
-### Data & Observability
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Amazon CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
-![Elastic Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=flat&logo=elastic&logoColor=white)
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section divider" />
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>▤ Backend</h3>
+      <table width="100%">
+        <tr><td><code>Node.js</code></td></tr>
+        <tr><td><code>NestJS</code></td></tr>
+        <tr><td><code>Spring Boot</code></td></tr>
+        <tr><td><code>Microservices</code></td></tr>
+        <tr><td><code>REST APIs</code></td></tr>
+        <tr><td><code>Webhooks &amp; Async Workflows</code></td></tr>
+        <tr><td><code>Event-Driven Architecture</code></td></tr>
+      </table>
+    </td>
+    <td width="33%" valign="top">
+      <h3>✦ Applied AI &amp; LLMs</h3>
+      <table width="100%">
+        <tr><td><code>Generative AI &amp; LLMs</code></td></tr>
+        <tr><td><code>LangChain &amp; LangGraph</code></td></tr>
+        <tr><td><code>RAG &amp; Vector Databases</code></td></tr>
+        <tr><td><code>Ollama &amp; Local LLMs</code></td></tr>
+        <tr><td><code>Prompt Engineering</code></td></tr>
+        <tr><td><code>LLM Evaluation &amp; Safety</code></td></tr>
+        <tr><td><code>Model Context Protocol (MCP)</code></td></tr>
+      </table>
+    </td>
+    <td width="33%" valign="top">
+      <h3>☁ Cloud &amp; DevOps</h3>
+      <table width="100%">
+        <tr><td><code>AWS Lambda</code></td></tr>
+        <tr><td><code>Amazon SQS</code></td></tr>
+        <tr><td><code>Amazon SNS</code></td></tr>
+        <tr><td><code>AWS ECS/Fargate</code></td></tr>
+        <tr><td><code>AWS CodePipeline</code></td></tr>
+        <tr><td><code>Docker</code></td></tr>
+        <tr><td><code>CI/CD</code></td></tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>&lt;/&gt; Languages</h3>
+      <table width="100%">
+        <tr><td><code>C++</code></td></tr>
+        <tr><td><code>Java</code></td></tr>
+        <tr><td><code>Python</code></td></tr>
+        <tr><td><code>JavaScript</code></td></tr>
+        <tr><td><code>TypeScript</code></td></tr>
+        <tr><td><code>SQL</code></td></tr>
+      </table>
+    </td>
+    <td width="33%" valign="top">
+      <h3>▱ Databases</h3>
+      <table width="100%">
+        <tr><td><code>MySQL</code></td></tr>
+        <tr><td><code>MongoDB</code></td></tr>
+        <tr><td><code>PostgreSQL</code></td></tr>
+        <tr><td><code>Oracle Database</code></td></tr>
+        <tr><td><code>Amazon DynamoDB</code></td></tr>
+        <tr><td><code>Elasticsearch</code></td></tr>
+      </table>
+    </td>
+    <td width="33%" valign="top">
+      <h3>▣ Frontend &amp; Tools</h3>
+      <table width="100%">
+        <tr><td><code>React</code></td></tr>
+        <tr><td><code>Next.js</code></td></tr>
+        <tr><td><code>Redux</code></td></tr>
+        <tr><td><code>Git</code></td></tr>
+        <tr><td><code>GitHub</code></td></tr>
+        <tr><td><code>Postman</code></td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ## 🏆 Competitive Programming / DSA
 
-<p align="center">
-  <a href="https://leetcode.com/u/snehilthakur21/">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://leetcard.jacoblin.cool/snehilthakur21?theme=dark&font=Inter&ext=contest"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://leetcard.jacoblin.cool/snehilthakur21?theme=light&font=Inter&ext=contest"
-      />
-      <img
-        src="https://leetcard.jacoblin.cool/snehilthakur21?theme=light&font=Inter&ext=contest"
-        height="230"
-        alt="Snehil's LeetCode statistics"
-      />
-    </picture>
-  </a>
+<p align="center"><a href="https://leetcode.com/u/snehilthakur21/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/snehilthakur21?theme=dark&font=Inter&ext=contest" /><source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/snehilthakur21?theme=light&font=Inter&ext=contest" /><img src="https://leetcard.jacoblin.cool/snehilthakur21?theme=light&font=Inter&ext=contest" width="380" height="224" alt="Snehil's LeetCode statistics" /></picture></a><a href="https://www.codechef.com/users/snehil21"><picture><source media="(prefers-color-scheme: dark)" srcset="https://codechef-stat-card.vercel.app/api/snehil21?theme=dark&ext=contest" /><source media="(prefers-color-scheme: light)" srcset="https://codechef-stat-card.vercel.app/api/snehil21?theme=light&ext=contest" /><img src="https://codechef-stat-card.vercel.app/api/snehil21?theme=light&font=Inter&ext=contest" width="380" height="224" alt="Snehil's CodeChef statistics" /></picture></a></p>
 
-  <a href="https://www.codechef.com/users/snehil21">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://codechef-stat-card.vercel.app/api/snehil21?theme=dark&ext=contest"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://codechef-stat-card.vercel.app/api/snehil21?theme=light&ext=contest"
-      />
-      <img
-        src="https://codechef-stat-card.vercel.app/api/snehil21?theme=light&ext=contest"
-        height="230"
-        alt="Snehil's CodeChef statistics"
-      />
-    </picture>
-  </a>
-</p>
-
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section divider" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-multiuser.vercel.app/api?usernames=snehil21&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Snehil's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehil21&theme=radical&hide_border=true" width="48%" alt="Snehil's GitHub contribution streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snehil21&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snehil21&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snehil21&theme=github" width="760" alt="Snehil's GitHub contribution activity" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Section divider" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snehil21&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snehil21&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=snehil21&theme=github" width="380" alt="Snehil's GitHub statistics" />
+  </picture><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snehil21&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snehil21&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snehil21&theme=github" width="380" alt="Languages across Snehil's public repositories" />
+  </picture>
 </p>
-
-## 📫 Let's Connect
-
-I'm open to conversations about remote backend, platform, distributed-systems, and AI-backend engineering opportunities.   <a href="mailto:snehil.kumar09@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 
